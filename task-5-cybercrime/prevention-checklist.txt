@@ -1,4 +1,4 @@
-Stay Safe Online Checklist :-
+### Stay Safe Online Checklist :-
 
 UPI / Financial Safety Tips:-
 1) Do not make UPI or online payments on public or unsecured Wi-Fi networks
@@ -13,3 +13,7 @@ General Safety Tips :-
 5) Enable two-factor authentication on important accounts
 6) Always log out from accounts after using someone else’s device
 7) Do not allow unnecessary permissions (camera, contacts, etc.) to apps
+
+Reporting Help :-
+Report cyber fraud at: https://cybercrime.gov.in
+Call Cyber Crime Helpline: 1930 (24x7)
