@@ -5,8 +5,21 @@ The main goal of the Digital Literacy project was to learn about computer skills
 I also learnt how to talk to people and be safe on the internet, through this Digital Literacy project.  
 As a Student Digital Ambassador, the Digital Literacy project helps me show other students how to use websites and other online things in a proper and safe way.    
 
-Name   :- Atharav Balaji Khonde    
+### Student Details  
+Name   :- Atharav Balaji Khonde      
 Reg.no :- 25BAI10734  
-Digital Literacy Awareness Quiz link :- https://forms.gle/sDfoxupp9zwrybvU7
+Branch :- B.Tech CSE(AIML)  
+Batch  :- 2025-2029  
+
+Digital Literacy Awareness Quiz link mentioned in task 3 :- https://forms.gle/sDfoxupp9zwrybvU7
+
+### Repository Structure
+This repository is organized into the following folders as per the project requirements:  
+report/: Contains the final written Project Report (.pdf/.docx).  
+task-1-presentation/: Infographic regarding Digital Literacy awareness.  
+task-2-portfolio/: Screenshots of professional digital profiles (GitHub, LinkedIn, etc.).  
+task-3-platforms/: Proof of coding challenges and cloud collaboration tools.  
+task-4-email-etiquette/: Professional email drafts and social media etiquette checklists.  
+task-5-cybercrime/: Cybercrime case study and prevention guide.  
  
 
