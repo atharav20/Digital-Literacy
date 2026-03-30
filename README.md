@@ -41,6 +41,6 @@ Task 5: Cybercrime & Prevention
 A detailed case study on modern online threats like phishing or UPI fraud. Includes a prevention guide with Indian national reporting channels.  
 
 ### Links  
-LinkedIn :-  
-Kaggle :-  
-Github :-  
+LinkedIn :- www.linkedin.com/in/atharav-balaji-khonde-652279380  
+Kaggle :-  https://www.kaggle.com/atharavbalajikhonde  
+Github :-  https://github.com/atharav20 
